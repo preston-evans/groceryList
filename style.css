@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+button {
+  min-height: 200px;
+  min-width: 200px;
+  margin: 10px;
+  background-color: lightgray;
+  border: 0;
+  outline: none;
+  flex-grow: 1;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
